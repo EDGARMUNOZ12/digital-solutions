@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0044cc;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 40px;
+}
+
+button {
+    background-color: #0044cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #002a80;
+}
+
+.imagenes {
+    margin-top: 20px;
+}
+
+.imagenes img {
+    width: 250px;
+    height: auto;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
